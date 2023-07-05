@@ -1,6 +1,6 @@
 # Kestrel - A 3D printable 1:14th RC car
  
-This is the repo for the design files for my 3D printable RC buggy, the Kestrel. The primary goal was to make the Kestrel fun to drive, so it it not particularly good for racing, bashing, or drifting, but it can do a bit of each. I also wanted to design the Kestrel to be smaller than many other 3D printed buggies, so it is roughly 1:14 scale. Here are some of the features:
+This is the repo for the design files for my 3D printable RC buggy, the Kestrel. The primary goal was to make the Kestrel fun to drive in a lot of situations, so it is not particularly good for racing, bashing, or drifting, but it can do a bit of each. I also wanted to design the Kestrel to be smaller than many other 3D printed buggies, so it is roughly 1:14 scale. Here are some of the features:
 - Rear-wheel drive using a belt
 - No differential (this enables the car to be simpler and more robust)
 - Uses oil-filled adjustable shocks
