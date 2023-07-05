@@ -30,3 +30,6 @@ Here are the parts that ou need to build this car:
 
 ## Build instructions
 I am working on making a video showing how to build the car. I will link it here when I am done.
+
+## CAD
+For this project I am using [FreeCAD Link Branch 2023-01-31](https://github.com/realthunder/FreeCAD/releases/tag/2023.01.31-edge). You can try it out with a different version of FreeCAD, but it may break.
