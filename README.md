@@ -1,4 +1,6 @@
 # Kestrel - A 3D printable 1:14th RC car
+
+![cover image](assets/kestrel.jpg)
  
 This is the repo for the design files for my 3D printable RC buggy, the Kestrel. The primary goal was to make the Kestrel fun to drive in a lot of situations, so it is not particularly good for racing, bashing, or drifting, but it can do a bit of each. I also wanted to design the Kestrel to be smaller than many other 3D printed buggies, so it is roughly 1:14 scale. Here are some of the features:
 - Rear-wheel drive using a belt
@@ -7,7 +9,7 @@ This is the repo for the design files for my 3D printable RC buggy, the Kestrel.
 - Fits rubber tyres
 
 ## Parts List
-Here are the parts that ou need to build this car:
+Here are the parts that you need to build this car:
 
 ### Materials
 - ~500g of filament - I used ESUN PLA+ for every part of the print
@@ -25,7 +27,7 @@ Here are the parts that ou need to build this car:
 - `EMAX 2213` motor
 - 2S/3S LiPo battery - I am using 3S
 - ESC
-- Reciver
+- Receiver
 - Gyro (Optional) - I have found that due to the locked diff, the car really likes to spin out. I am also not a very good driver though, so you might not need this.
 
 ## Build instructions
