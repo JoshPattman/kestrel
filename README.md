@@ -7,6 +7,7 @@ This is the repo for the design files for my 3D printable RC buggy, the Kestrel.
 - No differential (this enables the car to be simpler and more robust)
 - Uses oil-filled adjustable shocks
 - Fits rubber tyres
+- Can be used with TPU drive axles for higher durability
 
 ## Parts List
 Here are the parts that you need to build this car:
