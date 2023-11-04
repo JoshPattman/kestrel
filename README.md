@@ -13,11 +13,12 @@ This is the repo for the design files for my 3D printable RC buggy, the Kestrel.
 Here are the parts that you need to build this car:
 
 ### Materials
-- ~500g of filament - I used ESUN PLA+ for every part of the print
+- ~400g of filament - I used ESUN PLA+ for every part of the print
+- Small amount of TPU (Optional-ish) - Used only for the drive shafts but drastically improves drivetrain durability
 - 12x `6700-2RS` bearings
 - 4x 60mm RC car shocks - Ensure that both ends of the shock have an open hole and not a ball joint
 - 4x RC car tyres - I used 1:10 touring car tyres which can be found [here](https://www.amazon.co.uk/gp/product/B0BHDSPXZH/ref=ox_sc_act_title_1?smid=A1N8E4Q081571L&psc=1). If you want to use different tyres it should be straightforward to modify the wheel file to fit them.
-- 6mm wide 2GT/GT2 circular belt with a length of about 170mm - I have successfully used a belt that I spliced to the correct size.
+- 6mm wide 2GT/GT2 circular belt with a length of about 160mm - I have successfully used a belt that I spliced to the correct size.
 - Sticky velcro
 - Some sort of grease to reduce friction between 3d printed gears - I am using bike grease
 - A set of M3 bolts and nuts of varying lengths
